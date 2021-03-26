@@ -76,6 +76,9 @@ package is not available on PyPI and must be installed manually as follows.
 ```shell script
 pip install git+http://github.com/alexlee-gk/lpips-tensorflow.git#egg=lpips_tf
 ```
+```
+sudo apt-get install liblzo2-dev
+```
 
 You can now move on to installing the actual `atlalign` package!
 
